@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+.notification { border: 1px solid; padding: 10px; margin-bottom: 10px; }
+.success { color: green; background: #e6ffee; border-color: #66cc66; }
+.error { color: red; background: #ffe6e6; border-color: #cc6666; }
+.blog { padding: 6px 0; border-bottom: 1px solid #eee; display:flex; justify-content:space-between; align-items:center;}
+form input { margin-right: 8px; }
+.togglable { margin-top: 10px; }
